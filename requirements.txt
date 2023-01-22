@@ -1,6 +1,7 @@
-pandas
-numpy
-scipy
-IPython
-yfinance
-matplotlib
+pandas~=1.5.3
+numpy~=1.24.1
+scipy~=1.10.0
+IPython~=8.8.0
+yfinance~=0.2.4
+matplotlib~=3.6.3
+python-dateutil~=2.8.2
